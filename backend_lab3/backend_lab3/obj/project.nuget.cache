@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvJVbpArOIClSSM20v3u6wVSj/W51jDv3vkMCFn4sqpMTr7c1PgeZY5gM1tNVgHQLcq94xj9hjRpQzRJKQjiaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\backend_lab3\\backend_lab3\\backend_lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
