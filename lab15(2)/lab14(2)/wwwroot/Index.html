@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Test CORS</title>
+</head>
+<body>
+    <h2 id="result"></h2>
+    <button id="btn" value="Запрос">Запрос</button>
+    <script>
+        const btn = document.getElementById("btn");
+        const result = document.getElementById("result");
+        btn.addEventListener("click", async () => {
+            try {
+                const response = await fetch("https://localhost:7186/Data");
+                if (response.ok) {
+                    const data = await response.json(); // Парсим JSON-ответ
+                    result.innerText = JSON.stringify(data); // Выводим JSON-данные на страницу
+                } else {
+                    result.innerText = "Ошибка HTTP: " + response.status;
+                }
+            } catch (e) {
+                result.innerText = "Ошибка: " + e.message;
+            }
+        });
+    </script>
+</body>
+</html>
