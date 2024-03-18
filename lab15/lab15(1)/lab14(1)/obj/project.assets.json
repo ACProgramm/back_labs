@@ -1138,11 +1138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\backend\\back_labs\\lab15(1)\\lab14(1)\\lab14(1).csproj",
+      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\lab14(1)\\lab14(1)\\lab14(1).csproj",
       "projectName": "lab14(1)",
-      "projectPath": "D:\\Study\\backend\\back_labs\\lab15(1)\\lab14(1)\\lab14(1).csproj",
+      "projectPath": "C:\\Users\\andre\\source\\repos\\lab14(1)\\lab14(1)\\lab14(1).csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\backend\\back_labs\\lab15(1)\\lab14(1)\\obj\\",
+      "outputPath": "C:\\Users\\andre\\source\\repos\\lab14(1)\\lab14(1)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
