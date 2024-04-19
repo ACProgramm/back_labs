@@ -1,0 +1,3 @@
+﻿<configuration>
+  <CustomSetting>Value from config.xml</CustomSetting>
+</configuration>
