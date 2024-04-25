@@ -1,0 +1,71 @@
+[2024-04-25T15:37:38.7481814+03:00] [Information] Now listening on: https://localhost:7179
+[2024-04-25T15:37:38.7509130+03:00] [Information] Now listening on: http://localhost:5281
+[2024-04-25T15:37:38.7529796+03:00] [Information] Application started. Press Ctrl+C to shut down.
+[2024-04-25T15:37:38.7535747+03:00] [Information] Hosting environment: Development
+[2024-04-25T15:37:38.7537814+03:00] [Information] Content root path: C:\Users\andre\source\repos\lab7\lab7
+[2024-04-25T15:37:39.3295441+03:00] [Information] Request incoming
+[2024-04-25T15:37:39.3365026+03:00] [Information] Response outgoing
+[2024-04-25T15:37:45.9543819+03:00] [Information] Now listening on: https://localhost:7179
+[2024-04-25T15:37:45.9568170+03:00] [Information] Now listening on: http://localhost:5281
+[2024-04-25T15:37:45.9602802+03:00] [Information] Application started. Press Ctrl+C to shut down.
+[2024-04-25T15:37:45.9607778+03:00] [Information] Hosting environment: Development
+[2024-04-25T15:37:45.9609275+03:00] [Information] Content root path: C:\Users\andre\source\repos\lab7\lab7
+[2024-04-25T15:37:46.7041239+03:00] [Information] Request incoming
+[2024-04-25T15:37:46.7089641+03:00] [Information] Response outgoing
+[2024-04-25T15:39:13.0603600+03:00] [Information] Now listening on: https://localhost:7179
+[2024-04-25T15:39:13.0625381+03:00] [Information] Now listening on: http://localhost:5281
+[2024-04-25T15:39:13.0645100+03:00] [Information] Application started. Press Ctrl+C to shut down.
+[2024-04-25T15:39:13.0649667+03:00] [Information] Hosting environment: Development
+[2024-04-25T15:39:13.0651404+03:00] [Information] Content root path: C:\Users\andre\source\repos\lab7\lab7
+[2024-04-25T15:39:13.6256364+03:00] [Information] Request incoming
+[2024-04-25T15:39:13.6301928+03:00] [Information] Response outgoing
+[2024-04-25T15:39:19.1379211+03:00] [Information] Request incoming
+[2024-04-25T15:39:19.1383299+03:00] [Information] Response outgoing
+[2024-04-25T15:39:23.8416928+03:00] [Information] Now listening on: https://localhost:7179
+[2024-04-25T15:39:23.8438080+03:00] [Information] Now listening on: http://localhost:5281
+[2024-04-25T15:39:23.8454627+03:00] [Information] Application started. Press Ctrl+C to shut down.
+[2024-04-25T15:39:23.8460112+03:00] [Information] Hosting environment: Development
+[2024-04-25T15:39:23.8461787+03:00] [Information] Content root path: C:\Users\andre\source\repos\lab7\lab7
+[2024-04-25T15:39:24.4953650+03:00] [Information] Request incoming
+[2024-04-25T15:39:24.5001254+03:00] [Information] Response outgoing
+[2024-04-25T15:42:07.9617879+03:00] [Information] Now listening on: https://localhost:7179
+[2024-04-25T15:42:07.9640078+03:00] [Information] Now listening on: http://localhost:5281
+[2024-04-25T15:42:07.9656865+03:00] [Information] Application started. Press Ctrl+C to shut down.
+[2024-04-25T15:42:07.9661749+03:00] [Information] Hosting environment: Development
+[2024-04-25T15:42:07.9663470+03:00] [Information] Content root path: C:\Users\andre\source\repos\lab7\lab7
+[2024-04-25T15:42:08.4361910+03:00] [Information] Request incoming
+[2024-04-25T15:42:08.4411014+03:00] [Information] Response outgoing
+[2024-04-25T15:43:06.1145351+03:00] [Information] Now listening on: https://localhost:7179
+[2024-04-25T15:43:06.1166765+03:00] [Information] Now listening on: http://localhost:5281
+[2024-04-25T15:43:06.1183413+03:00] [Information] Application started. Press Ctrl+C to shut down.
+[2024-04-25T15:43:06.1188364+03:00] [Information] Hosting environment: Development
+[2024-04-25T15:43:06.1190000+03:00] [Information] Content root path: C:\Users\andre\source\repos\lab7\lab7
+[2024-04-25T15:43:06.4898921+03:00] [Information] Request incoming
+[2024-04-25T15:43:06.4942864+03:00] [Information] Response outgoing
+[2024-04-25T15:43:50.2345228+03:00] [Information] Now listening on: https://localhost:7179
+[2024-04-25T15:43:50.2366572+03:00] [Information] Now listening on: http://localhost:5281
+[2024-04-25T15:43:50.2387159+03:00] [Information] Application started. Press Ctrl+C to shut down.
+[2024-04-25T15:43:50.2391836+03:00] [Information] Hosting environment: Development
+[2024-04-25T15:43:50.2393742+03:00] [Information] Content root path: C:\Users\andre\source\repos\lab7\lab7
+[2024-04-25T15:43:50.7894841+03:00] [Information] Request incoming
+[2024-04-25T15:43:50.7942105+03:00] [Information] Response outgoing
+[2024-04-25T15:44:28.5201488+03:00] [Information] Request incoming
+[2024-04-25T15:44:28.5215012+03:00] [Information] Response outgoing
+[2024-04-25T15:44:28.5887089+03:00] [Information] Request incoming
+[2024-04-25T15:44:28.5892043+03:00] [Information] Response outgoing
+[2024-04-25T15:44:30.9549437+03:00] [Information] Request incoming
+[2024-04-25T15:44:30.9558502+03:00] [Information] Response outgoing
+[2024-04-26T00:57:05.5694189+03:00] [Information] Now listening on: https://localhost:7179
+[2024-04-26T00:57:05.5716621+03:00] [Information] Now listening on: http://localhost:5281
+[2024-04-26T00:57:05.5737068+03:00] [Information] Application started. Press Ctrl+C to shut down.
+[2024-04-26T00:57:05.5742919+03:00] [Information] Hosting environment: Development
+[2024-04-26T00:57:05.5744743+03:00] [Information] Content root path: C:\Users\andre\source\repos\lab7\lab7
+[2024-04-26T00:57:06.3466576+03:00] [Information] Request incoming
+[2024-04-26T00:57:06.3514377+03:00] [Information] Response outgoing
+[2024-04-26T00:59:13.9347223+03:00] [Information] Now listening on: https://localhost:7179
+[2024-04-26T00:59:13.9369080+03:00] [Information] Now listening on: http://localhost:5281
+[2024-04-26T00:59:13.9387372+03:00] [Information] Application started. Press Ctrl+C to shut down.
+[2024-04-26T00:59:13.9394258+03:00] [Information] Hosting environment: Development
+[2024-04-26T00:59:13.9396220+03:00] [Information] Content root path: C:\Users\andre\source\repos\lab7\lab7
+[2024-04-26T00:59:14.6327317+03:00] [Information] Request incoming
+[2024-04-26T00:59:14.6382037+03:00] [Information] Response outgoing
