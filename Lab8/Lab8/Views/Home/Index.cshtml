@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Welcome</h2>
+
+<form method="post" action="/Home/SetUserName">
+    <input type="text" name="userName" placeholder="Enter your name" required />
+    <button type="submit">Save</button>
+</form>
+
+<div>
+    <h3>Your name:</h3>
+    <p id="displayUserName">@ViewBag.UserName</p>
+</div>
